@@ -28,7 +28,9 @@ Failed conditions are routed separately instead of crashing the workflow.
 
 ## Bonus Task – Uptime Monitor
 
-### Workflow Logic
+# Video Walkthrough
+
+[Click here to watch the video walkthrough](https://drive.google.com/file/d/1of50kS8FlHphCdUTF3VFULAIsdDvG-vS/view?usp=sharing)
 
 - Schedule Trigger runs periodically.
 - HTTP Request checks website availability.
